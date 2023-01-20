@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1500 350" style="enable-background:new 0 0 1500 350;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{fill:none;stroke:#FFFFFF;stroke-width:8;}
+	.st2{fill:none;stroke:#C92127;stroke-width:8;}
+	.st3{fill:none;stroke:#3496BB;stroke-width:6;}
+	.st4{fill:#36BA9C;}
+	.st5{fill:#3496BB;}
+	.st6{fill:none;stroke:#E7E864;stroke-width:6.0051;stroke-miterlimit:4.0034;}
+	.st7{fill:none;stroke:#E7E864;stroke-width:6.0024;stroke-miterlimit:4.0016;}
+	.st8{fill:#FFFFFF;}
+</style>
+<g id="Ellipse_3" transform="translate(79 271)">
+	<circle class="st0" cx="-36.5" cy="20.9" r="18"/>
+	<circle class="st1" cx="-36.5" cy="20.9" r="14"/>
+</g>
+<g id="Ellipse_4" transform="translate(1450 148)">
+	<circle class="st0" cx="-36.5" cy="20.9" r="18"/>
+	<circle class="st2" cx="-36.5" cy="20.9" r="14"/>
+</g>
+<g id="Ellipse_5" transform="translate(1353 154)">
+	<circle class="st0" cx="-24.5" cy="32.9" r="30"/>
+	<circle class="st3" cx="-24.5" cy="32.9" r="27"/>
+</g>
+<g id="Polygon_2" transform="translate(77.347 208.36) rotate(-45)">
+	<path class="st0" d="M-16-36.5l24.5,38h-49L-16-36.5z"/>
+	<path class="st4" d="M-16-25.4L-29.5-4.5h27L-16-25.4 M-16-36.5l24.5,38h-49L-16-36.5z"/>
+</g>
+<g id="Polygon_4" transform="translate(166.456 210.331) rotate(11)">
+	<path class="st0" d="M-12.4,13.2l40.5,64l-81,0L-12.4,13.2z"/>
+	<path class="st5" d="M-12.4,24.4L-42,71.2l59.2,0L-12.4,24.4 M-12.4,13.2l40.5,64l-81,0L-12.4,13.2z"/>
+</g>
+<g id="Polygon_3" transform="translate(1403.24 102.706) rotate(-115)">
+	<path class="st0" d="M44.9-50.6l24.5,38l-49,0L44.9-50.6z"/>
+	<path class="st4" d="M44.9-39.5L31.4-18.6l27,0L44.9-39.5 M44.9-50.6l24.5,38l-49,0L44.9-50.6z"/>
+</g>
+<g id="Rectangle_32" transform="matrix(0.875, 0.485, -0.485, 0.875, 1480.221, 221.678)">
+	
+		<rect x="-46.2" y="28.9" transform="matrix(5.045350e-06 1 -1 5.045350e-06 45.6943 75.1138)" class="st0" width="63" height="63"/>
+	
+		<rect x="-43.2" y="31.9" transform="matrix(5.045350e-06 1 -1 5.045350e-06 45.6943 75.1138)" class="st6" width="57" height="57"/>
+</g>
+<g id="Rectangle_33" transform="matrix(0.616, 0.788, -0.788, 0.616, 190.317, 89.822)">
+	
+		<rect x="-31.3" y="44.7" transform="matrix(5.080372e-06 1 -1 5.080372e-06 47.4062 75.9275)" class="st0" width="34" height="34"/>
+	
+		<rect x="-28.3" y="47.7" transform="matrix(5.080372e-06 1 -1 5.080372e-06 47.4062 75.9275)" class="st7" width="28" height="28"/>
+</g>
+<path class="st8" d="M1481.6,115.9c-27.6,0-50-22.4-50-50s22.4-50,50-50c6.3,0,12.4,1.2,18,3.4V15c-5.6-2-11.7-3.1-18-3.1
+	c-29.8,0-54,24.2-54,54s24.2,54,54,54c6.3,0,12.4-1.1,18-3.1v-4.3C1494,114.7,1487.9,115.9,1481.6,115.9z"/>
+<path class="st2" d="M21.5,36.4c27.6,0,50,22.4,50,50s-22.4,50-50,50c-6.4,0-12.4-1.2-18-3.4v4.3c5.6,2,11.7,3.1,18,3.1
+	c29.8,0,54-24.2,54-54s-24.2-54-54-54c-6.3,0-12.4,1.1-18,3.1v4.3C9.1,37.6,15.2,36.4,21.5,36.4z"/>
+<path class="st0" d="M1431.6,65.9c0,27.6,22.4,50,50,50c6.3,0,12.4-1.2,18-3.3V19.2c-5.6-2.2-11.7-3.4-18-3.4
+	C1453.9,15.9,1431.6,38.3,1431.6,65.9z"/>
+</svg>
